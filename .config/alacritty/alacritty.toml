@@ -2,3 +2,15 @@
 program = "/usr/bin/tmux"
 [window]
 startup_mode = "Maximized"
+[font]
+  [font.normal]
+    family = "0xProto Nerd Font"
+    style = "Regular"
+  
+  [font.bold]
+    family = "0xProto Nerd Font"
+    style = "Bold"
+  
+  [font.italic]
+    family = "0xProto Nerd Font"
+    style = "Italic"
