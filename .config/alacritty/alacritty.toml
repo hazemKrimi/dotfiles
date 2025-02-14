@@ -1,4 +1,4 @@
-[shell]
+[terminal.shell]
 program = "/usr/bin/tmux"
 [window]
 startup_mode = "Maximized"
@@ -14,3 +14,5 @@ startup_mode = "Maximized"
   [font.italic]
     family = "0xProto Nerd Font"
     style = "Italic"
+
+[terminal]
