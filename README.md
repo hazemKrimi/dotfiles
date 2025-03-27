@@ -30,4 +30,4 @@ stow .
 
 ## Reference
 
-I found about this in [Dreams of Autonomy's Video](https://www.youtube.com/watch?v=y6XCebnB9gs&pp=ygURZ2l0IHN0b3cgZG90ZmlsZXM%3D) so shout out to him!
+I found about this in [Dreams of Autonomy's video](https://www.youtube.com/watch?v=y6XCebnB9gs&pp=ygURZ2l0IHN0b3cgZG90ZmlsZXM%3D) so shout out to him!
