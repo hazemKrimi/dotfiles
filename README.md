@@ -14,14 +14,14 @@ You need to have [Git](https://git-scm.com/downloads) and [GNU stow](http://gnu.
 git clone https://github.com/hazemKrimi/dotfiles
 ```
 
-1. Install the programs you are going to have dotfiles for if you have not done so already. If following this repo you should install the following:
+2. Install the programs you are going to have dotfiles for if you have not done so already. If following this repo you should install the following:
 
 - [Alacritty](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
 - [Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - [Oh My Zsh](https://ohmyz.sh/#install)
 - [Tmux](https://github.com/tmux/tmux/wiki/Installing)
 
-1. Run GNU stow to symlink the configs in dotfiles to their default locations:
+3. Run GNU stow to symlink the configs in dotfiles to their default locations:
 
 ```
 cd dotfiles
