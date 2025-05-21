@@ -4,7 +4,7 @@ This repo contains the dotfiles of essential programs configurations I use acros
 
 ## Requirements
 
-You need to have [Git](https://git-scm.com/downloads) and [GNU stow](http://gnu.org/software/stow/) to link the dotfiles properly.
+You need to have [Git](https://git-scm.com/downloads) and [GNU stow](http://gnu.org/software/stow/) to link the dotfiles properly. You also need to install a [Nerd Font](https://www.nerdfonts.com). If you don't want a nerd font you can disable it from `alacritty.toml`.
 
 ## Installation
 
