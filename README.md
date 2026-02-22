@@ -20,6 +20,7 @@ git clone https://github.com/hazemKrimi/dotfiles
 - [Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - [Oh My Zsh](https://ohmyz.sh/#install)
 - [Tmux](https://github.com/tmux/tmux/wiki/Installing)
+- [LazyGit](https://github.com/jesseduffield/lazygit)
 
 3. Run GNU stow to symlink the configs in dotfiles to their default locations:
 
